@@ -1,8 +1,9 @@
 
 Este es el nuevo archivo
 
-<<<<<<< HEAD
+
 Contenido: bla bla bla
-=======
+
 Cabecera: bla bla bla
->>>>>>> cabecera
+
+Cambio pequeño
