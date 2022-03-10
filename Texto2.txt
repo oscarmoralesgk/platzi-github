@@ -1,2 +1,4 @@
 
 Este es el nuevo archivo
+
+Cabecera: bla bla bla
